@@ -6,7 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... im a fast learner
 
-<!---
-EMILY20041/EMILY20041 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<html>what to know about me
+<body>as sweet and loving as i can be, you do not want to get ob my nervs.</body> 
+</html>
