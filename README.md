@@ -6,6 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... im a fast learner
 
-<html><h1>what to know about me.</h1></html>
-<body><p>as sweet and loving as i can be, you do not want to get ob my nervs.</p></body> 
+<html><h1>style="text-color;"<what to know about me.</h1></html>
+<body><p>style="background-color:Tomato;"<as sweet and loving as i can be, you do not want to get ob my nervs.</p></body> 
 
