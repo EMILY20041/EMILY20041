@@ -6,10 +6,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... im a fast learner
 
-<html></html>
+<html>
   <h1 style="background-color:green;">what to know about me.</h1>
 <body> <p style="background-color:pink;">
   as sweet and loving as i can be, you do not want to get ob my nervs.
 </p>
-</body> 
+</body>
+</html>
 
